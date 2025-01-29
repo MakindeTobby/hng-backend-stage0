@@ -79,11 +79,11 @@ fetch("https://hng-backend-stage0-qfts.onrender.com")
 - Express.js
 - Render (for deployment)
 
-## 📢 Hire Node.js Developers
+<!-- ## 📢 Hire Node.js Developers
 
 Looking to hire top Node.js developers?
 Check out **HNG Talent Pool:**
-🔗 **[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)**
+🔗 **[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)** -->
 
 ## 🤝 Contributing
 
