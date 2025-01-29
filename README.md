@@ -51,8 +51,9 @@ node server.js
 - Status Code: **200 OK**
 - Content-Type: **application/json**
 
-```
 Example JSON Response
+
+```
 {
   "email": "makindetobiloba9@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
