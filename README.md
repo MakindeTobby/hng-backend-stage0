@@ -1,15 +1,32 @@
-# HNG Stage 0 API
+# **HNG Stage 0 Backend API**
 
-A simple public API that returns basic information for HNG Internship.
+This is a simple public API that provides basic information such as the developer's email, the current datetime in ISO 8601 format, and the GitHub repository URL.
 
-## 🛠 Technologies Used
+---
 
-- Node.js
-- Express.js
-- Deployed on Render (or Vercel)
+## 🚀 Features
 
-## 🌍 API Endpoint
+- Returns developer's registered email.
+- Returns the current datetime in **UTC (ISO 8601 format)**.
+- Returns the GitHub URL of this project.
+- Supports **CORS** for cross-origin requests.
+
+---
+
+## 📌 Live API URL
+
+🔗 **[View Live API](https://hng-backend-stage0-qfts.onrender.com)**
+
+---
+
+## ⚙️ Setup Instructions
+
+### **1️⃣ Clone the Repository**
 
 ```sh
-GET https://hng-backend-stage0-qfts.onrender.com/
+git clone https://github.com/MakindeTobby/hng-backend-stage0.git
+cd hng-backend-stage0
+
+### **2️⃣ Install Dependencies**
+npm install
 ```
