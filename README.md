@@ -11,5 +11,5 @@ A simple public API that returns basic information for HNG Internship.
 ## 🌍 API Endpoint
 
 ```sh
-GET https://your-app.onrender.com
+GET https://hng-backend-stage0-qfts.onrender.com/
 ```
