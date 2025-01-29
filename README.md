@@ -58,3 +58,35 @@ node server.js
   "github_url": "https://github.com/MakindeTobby/hng-backend-stage0"
 }
 ```
+
+## 📤 🔗 Example Usage
+
+Using JavaScript (Fetch API):
+
+```
+fetch("https://hng-backend-stage0-qfts.onrender.com")
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error(error));
+
+```
+
+## 🛠 Technologies Used
+
+- Node.js
+- Express.js
+- Render (for deployment)
+
+## 📢 Hire Node.js Developers
+
+Looking to hire top Node.js developers?
+Check out **HNG Talent Pool:**
+🔗 **[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)**
+
+## 🤝 Contributing
+
+Feel free to submit pull requests or issues to improve this API.
+
+## 📄 License
+
+This project is licensed under the MIT License.
