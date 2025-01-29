@@ -37,7 +37,7 @@ npm install
 ### **3️⃣ Run the API Locally**
 
 ```sh
-npm start
+node server.js
 ```
 
 - The API should now be running at http://localhost:8000
@@ -45,3 +45,16 @@ npm start
 ## 📍 Endpoint
 
 - GET /
+
+## 📤 Response Format
+
+- Status Code: **_200 OK_**
+- Content-Type: **_application/json_**
+
+```
+{
+  "email": "makindetobiloba9@gmail.com",
+  "current_datetime": "2025-01-30T09:30:00Z",
+  "github_url": "https://github.com/MakindeTobby/hng-backend-stage0"
+}
+```
