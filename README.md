@@ -61,7 +61,7 @@ Example JSON Response
 }
 ```
 
-## 📤 🔗 Example Usage
+## 🔗 Example Usage
 
 Using JavaScript (Fetch API):
 
