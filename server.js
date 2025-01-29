@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   res.json({
     email: "makindetobiloba9@gmail.com", // my registered HNG Slack email
     current_datetime: new Date().toISOString(), // ISO 8601 timestamp
-    github_url: "https://github.com/yourusername/your-repo", // Your repo URL
+    github_url: "https://github.com/MakindeTobby/hng-backend-stage0", //  Repo URL
   });
 });
 
