@@ -26,7 +26,22 @@ This is a simple public API that provides basic information such as the develope
 ```sh
 git clone https://github.com/MakindeTobby/hng-backend-stage0.git
 cd hng-backend-stage0
+```
 
 ### **2️⃣ Install Dependencies**
+
+```sh
 npm install
 ```
+
+### **3️⃣ Run the API Locally**
+
+```sh
+npm start
+```
+
+- The API should now be running at http://localhost:8000
+
+## 📍 Endpoint
+
+- GET /
